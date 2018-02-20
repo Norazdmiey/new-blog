@@ -1,0 +1,11 @@
+# Im just try this
+title: The best blog
+author: Mimiko
+email: your-email@domain.com
+description: Just test this blog domain
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+theme: minima
